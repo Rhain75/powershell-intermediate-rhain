@@ -14,5 +14,6 @@ function Get-DiskReport {
 		[string]$ComputerName = "localhost"
 	)
 	
-	Get-CimInstance -ClassName Win32_LogicalDisk -ComputerName $ComputerName
+	Get-CimInstance -ClassName Win32_LogicalDisk -ComputerName $ComputerName |
+		Select-Object SystemName, DeviceID, Size, FreeSpace
 }
