@@ -22,3 +22,7 @@ b. These are useful because you can sort or filter them to find only certain gro
 a. was saved in LM2
 b. file name its exported to is employee-report.csv
 
+#Task 6
+a.CSV is simple and can open in excel which is good for going through data
+b.Json from what I can tell more structured data and can show more complicated data 
+c.JSON because scripts could probably use it better with how it stores data

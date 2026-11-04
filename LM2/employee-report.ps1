@@ -6,3 +6,4 @@ foreach ($employee in $employees) {
 $report =$employees | Select-Object Firstname, Lastname, Department, Location
 $report | Format-Table
 $report | export-csv -path ".\employee-report.csv" -notypeinformation
+$report | ConvertTo-Json | set-content -path ".\employee-report.json"
