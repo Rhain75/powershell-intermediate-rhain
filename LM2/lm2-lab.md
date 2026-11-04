@@ -17,3 +17,8 @@ b.75 records are shown
 #Task 4
 a. the properties are firstname, lastname, dept, location
 b. These are useful because you can sort or filter them to find only certain groups using the property
+
+#Task 5
+a. was saved in LM2
+b. file name its exported to is employee-report.csv
+
