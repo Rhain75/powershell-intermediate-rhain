@@ -1,3 +1,7 @@
+# SYNOPSIS 
+this script generates an employee report from a CSV file
+DESCRIPTION
+Imports employee data and exports reports to CSV and JSON#
 $employees = Import-Csv -path ".\employees-1.csv"
 
 foreach ($employee in $employees) {
