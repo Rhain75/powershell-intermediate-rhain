@@ -1,0 +1,14 @@
+"Name","SamAccountName","Department","EmailAddress","OfficePhone"
+"student","student",,,
+"Guest","Guest",,,
+"krbtgt","krbtgt",,,
+"Alex Jackson","ajackson1",,"ajackson1@nwtc.local","9205552710"
+"Alex Wilson","awilson2",,"awilson2@nwtc.local","9205555558"
+"Hayden Miller","hmiller3",,"hmiller3@nwtc.local","9205554690"
+"svc_backup","svc_backup",,,
+"svc_sql","svc_sql",,,
+"svc_web","svc_web",,,
+"svc_files","svc_files",,,
+"old.employee","oldemployee",,,
+"former.staff","formerstaff",,,
+"temp.employee","tempemployee",,,
