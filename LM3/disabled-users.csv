@@ -1,0 +1,6 @@
+"Name","SamAccountName","Enabled","LastLogonDate","Description"
+"Guest","Guest","False",,"Built-in account for guest access to the computer/domain"
+"krbtgt","krbtgt","False",,"Key Distribution Center Service Account"
+"old.employee","oldemployee","False",,
+"former.staff","formerstaff","False",,
+"temp.employee","tempemployee","False",,
