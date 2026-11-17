@@ -10,3 +10,10 @@ Users= 88
 2. LastLogonDate finds unused accounts and shows a date and time
 3. PasswordLastSet finds passwords that are old or never changed so it gives a date and time
 
+13 accounts are missing info and they are missing Departments, Email, and officephone
+
+total amount of groups is 65
+
+Member count is 3
+guests 2
+
